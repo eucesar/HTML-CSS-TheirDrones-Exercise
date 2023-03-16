@@ -1,0 +1,32 @@
+.imagem-header{
+    width: 82.8%;
+    margin: 1em 0 0 10em
+}
+
+/*escrita-daqui-para-baixo*/
+.imagem-header-1{
+    color: var(--branco);
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: absolute;
+    top: 15%;
+    right: 12%
+}
+
+.imagem-header-2{
+    color: var(--branco);
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: absolute;
+    top: 20%;
+    right: 12%
+}
+
+.imagem-header-3{
+    color: var(--branco);
+    font-size: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    position: absolute;
+    top: 25%;
+    right: 15%
+}
